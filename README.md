@@ -174,3 +174,7 @@ Built-in visualization tools:
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love">
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee">
 </p>
+
+<p align="center">
+  <img src="./img4.jfif" alt="Mojo Jojo Laughing" width="250">
+</p>
