@@ -5,14 +5,13 @@
 <h1 align="center">🐵💥 MOJO the Scraper 😁</h1>
 
 <p align="center">
-  <i>“The great MOJO the Scraper cannot be stopped! He will collect ALL THE DATA! Hahaha!”</i><br>
+  <i>“The great MOJO the Scraper cannot be stopped! He will collect ALL THE DATA!”</i><br>
   — <b>Not actually Mojo Jojo... but still!</b>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8+-blue.svg" alt="Python">
   <img src="https://img.shields.io/badge/Streamlit-1.28+-red.svg" alt="Streamlit">
-  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
 </p>
 ---
 
