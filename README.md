@@ -29,7 +29,7 @@
 
 ---
 
-## 🎩 Features of Mojo, King of Scraping
+## 🎩 Features of Mojo، The scraper
 
 - 🐒 Paste any **website URL** and get **tabular data** as CSV or Excel.  
 - 😁 Handles **JavaScript pages** (via Selenium or Playwright) like a true mastermind.  
