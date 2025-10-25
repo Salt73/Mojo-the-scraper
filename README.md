@@ -1,11 +1,12 @@
 <!-- ✨ MOJO THE SCRAPER ✨ -->
 <p align="center">
+  <img src="./img1.jfif" alt="Mojo Jojo Laughing" width="250">
 </p>
 
-<h1 align="center">🐵💥 MOJO the Scraper 😁</h1>
+<h1 align="center">🐵 MOJO the Scraper </h1>
 
 <p align="center">
-  <i>“The great MOJO the Scraper cannot be stopped! He will collect ALL THE DATA!”</i><br>
+  <i>“The great MOJO cannot be stopped! He will collect ALL THE DATA!”</i><br>
   — <b>Not actually Mojo Jojo... but still!</b>
 </p>
 
@@ -13,11 +14,16 @@
   <img src="https://img.shields.io/badge/Python-3.8+-blue.svg" alt="Python">
   <img src="https://img.shields.io/badge/Streamlit-1.28+-red.svg" alt="Streamlit">
 </p>
+
 ---
 
 ## 🍌 Introducing the Evil Genius Himself
 
-**MOJO the Scraper** is your **banana-powered**, **villainously-simple** web scraping app 🦹‍♂️ that turns any web page into tidy, exportable tables.
+<p align="center">
+  <img src="./img2.jfif" alt="Mojo Jojo Thinking" width="300">
+</p>
+
+**MOJO the Scraper** is your **banana-powered**, **villainously-simple** web scraping app  that turns any web page into tidy, exportable tables.
 
 💻 Built with **Streamlit**, powered by **pandas**, and sprinkled with Mojo Jojo’s *mad genius energy*, this tool makes data scraping fun, fast, and slightly evil.
 
@@ -31,7 +37,6 @@
 - 🔥 Schedule recurring scrapes (“Today, Townsville! Tomorrow, the WORLD!”).  
 - 🚦 **Built-in cleanup** removes pesky newlines and garbage columns.  
 - 📊 **Data preview & stats** so even villains can analyze their spoils.  
-
 
 ---
 
@@ -87,24 +92,29 @@ Witness the **glory of MOJO the Scraper** in all his data-hoarding madness!
 
 
 
-> *A true genius at work... just like you!* 😎  
+> *A true genius at work... just like you!* 😎
+
+<p align="center">
+  <img src="./img3.jfif" alt="Mojo Jojo Plotting" width="300">
+</p>
 
 ---
 
-## Thing to consider 😁
+## 🧩 Thing to consider 😁
 
 > “If MOJO cannot scrape it... it is not worth scraping!”  
 > — *Probably Mojo Jojo again, probably.*
 
 ---
 
-<h3 align="center">🐵😁 Enjoy Scraping, You Glorious Villain!</h3>
+<h3 align="center">🐵Enjoy Scraping, You Glorious Villain!</h3>
 
 <p align="center">
   <i>“MOJO! Mojo Jojo says: Go forth and scrape wisely!”</i>
 </p>
 
 ---
+
 ## 🎯 Quick Start Guide
 
 1. **Clone the repo**
@@ -130,6 +140,8 @@ Witness the **glory of MOJO the Scraper** in all his data-hoarding madness!
    - Click "Start Scraping"
    - Download your data!
 
+---
+
 ## 🔧 Advanced Features
 
 ### Custom CSS Selectors
@@ -151,6 +163,8 @@ Built-in visualization tools:
 - Distribution charts
 - Missing value analysis
 - Data quality scores
+
+---
 
 <p align="center">
   Made with 💚 (and a touch of villainy) by aspiring data scientists everywhere
