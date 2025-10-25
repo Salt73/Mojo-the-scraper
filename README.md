@@ -167,7 +167,7 @@ Built-in visualization tools:
 ---
 
 <p align="center">
-  Made with 💚 (and a touch of villainy) by aspiring data scientists everywhere
+  Made with 💚 (and a touch of villainy) by Mohammed Sultan 
 </p>
 
 <p align="center">
