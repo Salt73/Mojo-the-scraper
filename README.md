@@ -119,7 +119,7 @@ Witness the **glory of MOJO the Scraper** in all his data-hoarding madness!
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/mojo-the-scraper.git
+   git clone https://github.com/Salt73/mojo-the-scraper.git
    cd mojo-the-scraper
    ```
 
